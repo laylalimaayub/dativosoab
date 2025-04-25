@@ -1,0 +1,3 @@
+python-telegram-bot==20.8
+gspread==5.12.0
+oauth2client==4.1.3
