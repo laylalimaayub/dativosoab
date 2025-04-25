@@ -11,7 +11,7 @@ from oauth2client.service_account import ServiceAccountCredentials
 ESCOLHA_NATUREZA = 1
 
 # Configurações
-TELEGRAM_TOKEN = "INSIRA_SEU_TOKEN_AQUI"
+TELEGRAM_TOKEN = " 7881240816"
 PLANILHA_NOME = "Lista_Advogados"
 TEMPO_ESPERA = 600  # 10 minutos
 
